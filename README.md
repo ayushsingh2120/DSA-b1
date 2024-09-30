@@ -1,2 +1,2 @@
 # DSA-b1
-This is Data structure class work
+Data structure work given in class.
